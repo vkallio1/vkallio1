@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vkallio1
 - 👀 I’m interested in backend things
-- 🌱 I’m currently (09/2022) learning C#
+- 🌱 I’m currently (09/2024) learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
